@@ -1,0 +1,256 @@
+*
+{
+    padding: 0px;
+    margin: 0px;
+    
+}
+
+body
+{
+    background-color: rgb(3, 3, 48);
+
+}
+
+header
+{
+    background-color: rgb(25,33,56);
+    text-align: right;
+    
+}
+.logo1
+{
+    width: 90px;
+    height: 80px;
+    margin-right: 500px;
+    margin-top: 20px;
+}
+header a
+{
+    color: aliceblue;
+    text-decoration: none;
+    line-height: 45px;
+    margin-right: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+nav 
+{
+    
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(3, 3, 48);
+    line-height: 45px;
+    text-align: left;
+}
+
+nav ul a
+{
+    color: aliceblue;
+    text-decoration: none;
+    margin-left: 40px;
+}
+
+
+
+h1
+{
+width: 40%;
+float: left;
+background-color:rgb(3, 3, 48);;;
+text-align: center;
+padding-top: 300px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color: aliceblue;
+
+}
+
+
+aside
+{
+    width: 60%;
+    background-color: rgb(3, 3, 48);
+    float: right;
+}
+
+.imagen1
+{
+    width: 750px;
+    margin-left: 13%;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    border-radius: 9px;
+}
+
+.container h3
+{
+    width: 40%;
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(3, 3, 48);
+}
+.container p
+{
+    width: 40%;
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(3, 3, 48);
+}
+
+.container input
+{
+    margin-left: 220px;
+    width: 205px;
+    height: 22px;
+    margin-top: 10px;
+    background-color: rgb(202, 198, 198);
+    border-radius: 8px;
+}
+
+.container button
+{
+    margin-left: 5px;
+    width: 60px;
+    height: 25px;
+    border-radius: 5px;
+    background-color: rgb(156, 153, 153);
+}
+
+.container0 h2
+{
+   background-color: aliceblue;
+   padding-top: 200px;
+   text-align: center;
+   font-size: 22;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.container0 p
+{
+    background-color: aliceblue;
+    padding-top: 50px;
+    text-align: center;
+    font-size: 27px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.banners 
+{
+    
+    background-color: aliceblue;
+    padding-left: 300px;
+    padding-top: 90px;
+    padding-bottom: 100px;
+    display: grid;
+    grid-template-columns: repeat(3, 100px);
+    gap: 300px; 
+
+}
+
+.banner1 img
+{
+ width: 300px;
+ border-radius: 7px;
+ box-shadow: 
+    2px 2px 4px rgba(0, 0, 0, 0.2), 
+    -2px -2px 4px rgba(255, 255, 255, 0.2);
+}
+.banner1 P
+{
+    
+    width: 300px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.banner2 img
+{
+ width: 300px;
+ border-radius: 7px;
+ box-shadow: 
+    2px 2px 4px rgba(0, 0, 0, 0.2), 
+    -2px -2px 4px rgba(255, 255, 255, 0.2);
+ 
+}
+
+.banner2 p
+{
+    width: 300px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.banner3 img
+{
+ width: 300px;
+ border-radius: 7px;
+ box-shadow: 
+    2px 2px 4px rgba(0, 0, 0, 0.2), 
+    -2px -2px 4px rgba(255, 255, 255, 0.2);
+}
+.banner3 p
+{
+    width: 300px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+footer 
+{
+   background-color: rgb(165,166,170);
+}
+
+.ifacebook
+{
+    width: 50px;
+}
+
+.itwitter
+{
+    width: 50px;
+} 
+
+.iinstagram 
+{
+    width: 50px;
+}
+
+.face
+{
+    width: 40%;
+    float: left;
+    background-color: rgb(165,166,170);
+    line-height: 137px;
+    text-align: center;
+    
+}
+
+.soporte
+{
+    width: 60%;
+    float: right;
+    background-color: rgb(165,166,170);
+    line-height: 137px;
+}
+
+.soporte a
+{
+    text-decoration: none;
+    color:whitesmoke;
+    margin-left: 90px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
